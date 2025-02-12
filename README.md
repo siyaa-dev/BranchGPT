@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BranchGPT : A Multi Path Conversation AI
 
 This project is a customizable GPT-based chat application designed to support advanced conversation branching, user message editing, and session traversal. It’s built using Next.js, TypeScript, and Supabase as the backend, with the flexibility to integrate with various AI models, including those provided by Ollama.
