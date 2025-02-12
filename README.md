@@ -143,11 +143,8 @@ Legacy standard compatible
 
 You would need `pnpm@7.14.2` in order to bootstrap and test a local copy of this repo.
 
-<<<<<<< HEAD
 1. Clone the repo with `git clone https://github.com/siyaa-dev/BranchGPT.git`
-=======
 1. Clone the repo with `git clone https://github.com/aptos-labs/aptos-wallet-adapter.git`
->>>>>>> forked-repo/main
 2. On the root folder, run `pnpm install` and `pnpm turbo run build`
 3. On the root folder, run `pnpm turbo run dev` - that would spin up a local server (`localhost:3000`) with the `nextjs` demoapp
 
