@@ -34,5 +34,9 @@
   "dependencies": {
     "gh-pages": "^5.0.0"
   },
+<<<<<<< HEAD
   "packageManager": "pnpm@8.8.0"
+=======
+  "packageManager": "pnpm@9.15.5"
+>>>>>>> forked-repo/main
 }
